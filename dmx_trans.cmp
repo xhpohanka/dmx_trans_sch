@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-04-19 BZR 4011)-stable date = 16/05/2013 21:54:11
+Cmp-Mod V01 Created by CvPcb (2013-04-19 BZR 4011)-stable date = 18/05/2013 10:37:25
 
 BeginCmp
 TimeStamp = /518FA231;
@@ -200,7 +200,7 @@ BeginCmp
 TimeStamp = /5193F3FE;
 Reference = J1;
 ValeurCmp = DB9;
-IdModule  = DB9MD;
+IdModule  = DB9M_CI;
 EndCmp
 
 BeginCmp
@@ -221,7 +221,7 @@ BeginCmp
 TimeStamp = /519121DD;
 Reference = P1;
 ValeurCmp = CONN_2;
-IdModule  = JACK_ALIM;
+IdModule  = BARREL_JACK;
 EndCmp
 
 BeginCmp
