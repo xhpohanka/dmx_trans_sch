@@ -1,4 +1,4 @@
-update=18/05/2013 10:34:42
+update=18/05/2013 18:11:45
 version=1
 last_client=cvpcb
 [general]
@@ -38,7 +38,10 @@ LibName12=led
 LibName13=dip_sockets
 LibName14=pga_sockets
 LibName15=valves
-LibDir=
+LibName16=LQFP
+LibName17=common
+LibName18=switch-tact
+LibDir=../kicad_lib
 [eeschema]
 version=1
 LibDir=../kicad_lib
